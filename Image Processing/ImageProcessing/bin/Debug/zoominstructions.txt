@@ -1,0 +1,3 @@
+Check the checkbox to start zooming.
+Define the bounds by clicking on the picturebox.
+Once for the beginning of the bound, once for the end.

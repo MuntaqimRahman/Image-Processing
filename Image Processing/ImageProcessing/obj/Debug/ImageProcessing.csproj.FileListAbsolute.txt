@@ -1,0 +1,62 @@
+C:\data\Tara\CoursePrep\ICS3M\ImageProcessing\ImageProcessing\bin\Debug\ImageProcessing.exe
+C:\data\Tara\CoursePrep\ICS3M\ImageProcessing\ImageProcessing\bin\Debug\ImageProcessing.pdb
+C:\data\Tara\CoursePrep\ICS3M\ImageProcessing\ImageProcessing\obj\Debug\ResolveAssemblyReference.cache
+C:\data\Tara\CoursePrep\ICS3M\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.Form1.resources
+C:\data\Tara\CoursePrep\ICS3M\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.Properties.Resources.resources
+C:\data\Tara\CoursePrep\ICS3M\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.csproj.GenerateResource.Cache
+C:\data\Tara\CoursePrep\ICS3M\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.exe
+C:\data\Tara\CoursePrep\ICS3M\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.pdb
+F:\ImageProcessing\obj\Debug\ImageProcessing.exe
+F:\ImageProcessing\obj\Debug\ImageProcessing.pdb
+F:\ImageProcessing\bin\Debug\ImageProcessing.exe
+F:\ImageProcessing\bin\Debug\ImageProcessing.pdb
+F:\ImageProcessing\obj\Debug\ResolveAssemblyReference.cache
+F:\ImageProcessing\obj\Debug\ImageProcessing.Form1.resources
+F:\ImageProcessing\obj\Debug\ImageProcessing.Properties.Resources.resources
+F:\ImageProcessing\obj\Debug\ImageProcessing.csproj.GenerateResource.Cache
+C:\Data\Tara\CoursePrep\ICS3U\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.exe
+C:\Data\Tara\CoursePrep\ICS3U\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.pdb
+C:\Data\Tara\CoursePrep\ICS3U\ImageProcessing\ImageProcessing\bin\Debug\ImageProcessing.exe
+C:\Data\Tara\CoursePrep\ICS3U\ImageProcessing\ImageProcessing\bin\Debug\ImageProcessing.pdb
+C:\Data\Tara\CoursePrep\ICS3U\ImageProcessing\ImageProcessing\obj\Debug\ResolveAssemblyReference.cache
+C:\Data\Tara\CoursePrep\ICS3U\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.Form1.resources
+C:\Data\Tara\CoursePrep\ICS3U\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.Properties.Resources.resources
+C:\Data\Tara\CoursePrep\ICS3U\ImageProcessing\ImageProcessing\obj\Debug\GenerateResource.read.1.tlog
+C:\Data\Tara\CoursePrep\ICS3U\ImageProcessing\ImageProcessing\obj\Debug\GenerateResource.write.1.tlog
+C:\Data\Tara\CoursePrep\ICS4U\ImageProcessing\obj\Debug\ImageProcessing.exe
+C:\Data\Tara\CoursePrep\ICS4U\ImageProcessing\obj\Debug\ImageProcessing.pdb
+C:\Data\Tara\CoursePrep\ICS4U\ImageProcessing\bin\Debug\ImageProcessing.exe
+C:\Data\Tara\CoursePrep\ICS4U\ImageProcessing\bin\Debug\ImageProcessing.pdb
+C:\Data\Tara\CoursePrep\ICS4U\ImageProcessing\obj\Debug\ResolveAssemblyReference.cache
+C:\Data\Tara\CoursePrep\ICS4U\ImageProcessing\obj\Debug\ImageProcessing.Form1.resources
+C:\Data\Tara\CoursePrep\ICS4U\ImageProcessing\obj\Debug\ImageProcessing.Properties.Resources.resources
+C:\Data\Tara\CoursePrep\ICS4U\ImageProcessing\obj\Debug\GenerateResource.read.1.tlog
+C:\Data\Tara\CoursePrep\ICS4U\ImageProcessing\obj\Debug\GenerateResource.write.1.tlog
+\\2252-CMS-01\2252 Students$\835077\Documents\ImageProcessing\obj\Debug\ImageProcessing.exe
+\\2252-CMS-01\2252 Students$\835077\Documents\ImageProcessing\obj\Debug\ImageProcessing.pdb
+\\2252-CMS-01\2252 Students$\835077\Documents\ImageProcessing\bin\Debug\ImageProcessing.exe
+\\2252-CMS-01\2252 Students$\835077\Documents\ImageProcessing\bin\Debug\ImageProcessing.pdb
+\\2252-CMS-01\2252 Students$\835077\Documents\ImageProcessing\obj\Debug\ImageProcessing.csprojResolveAssemblyReference.cache
+\\2252-CMS-01\2252 Students$\835077\Documents\ImageProcessing\obj\Debug\ImageProcessing.Form1.resources
+\\2252-CMS-01\2252 Students$\835077\Documents\ImageProcessing\obj\Debug\ImageProcessing.Properties.Resources.resources
+\\2252-CMS-01\2252 Students$\835077\Documents\ImageProcessing\obj\Debug\ImageProcessing.csproj.GenerateResource.Cache
+C:\Users\rmunt\Desktop\ImageProcessing\obj\Debug\ImageProcessing.exe
+C:\Users\rmunt\Desktop\ImageProcessing\obj\Debug\ImageProcessing.pdb
+C:\Users\rmunt\Desktop\ImageProcessing\bin\Debug\ImageProcessing.exe
+C:\Users\rmunt\Desktop\ImageProcessing\bin\Debug\ImageProcessing.pdb
+C:\Users\rmunt\Desktop\ImageProcessing\obj\Debug\ImageProcessing.csprojResolveAssemblyReference.cache
+C:\Users\rmunt\Desktop\ImageProcessing\obj\Debug\ImageProcessing.Properties.Resources.resources
+C:\Users\rmunt\Desktop\ImageProcessing\obj\Debug\ImageProcessing.csproj.GenerateResource.Cache
+C:\Users\rmunt\Desktop\ImageProcessing\bin\Debug\MathNet.Numerics.dll
+C:\Users\rmunt\Desktop\ImageProcessing\bin\Debug\MathNet.Numerics.xml
+\\2252-CMS-01\2252 Students$\835077\Profile\Desktop\ImageProcessing\obj\Debug\ImageProcessing.exe
+\\2252-CMS-01\2252 Students$\835077\Profile\Desktop\ImageProcessing\obj\Debug\ImageProcessing.pdb
+\\2252-CMS-01\2252 Students$\835077\Profile\Desktop\ImageProcessing\bin\Debug\ImageProcessing.exe
+\\2252-CMS-01\2252 Students$\835077\Profile\Desktop\ImageProcessing\bin\Debug\ImageProcessing.pdb
+\\2252-CMS-01\2252 Students$\835077\Profile\Desktop\ImageProcessing\bin\Debug\MathNet.Numerics.dll
+\\2252-CMS-01\2252 Students$\835077\Profile\Desktop\ImageProcessing\bin\Debug\MathNet.Numerics.xml
+\\2252-CMS-01\2252 Students$\835077\Profile\Desktop\ImageProcessing\obj\Debug\ImageProcessing.csprojResolveAssemblyReference.cache
+\\2252-CMS-01\2252 Students$\835077\Profile\Desktop\ImageProcessing\obj\Debug\ImageProcessing.Properties.Resources.resources
+\\2252-CMS-01\2252 Students$\835077\Profile\Desktop\ImageProcessing\obj\Debug\ImageProcessing.csproj.GenerateResource.Cache
+C:\Users\rmunt\Desktop\ImageProcessing\obj\Debug\ImageProcessing.formImageProcessing.resources
+\\2252-CMS-01\2252 Students$\835077\Profile\Desktop\ImageProcessing\obj\Debug\ImageProcessing.formImageProcessing.resources
