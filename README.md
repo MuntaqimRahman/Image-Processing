@@ -1,5 +1,5 @@
 # Image-Processing
-Different types of image processing in c#.
+Different types of image processing in c#. All testing was done with the Toronto picture in the folder.
 
 The following types of image processing exist in this application:
 
