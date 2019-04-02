@@ -3,34 +3,34 @@ Different types of image processing in c#.
 
 The following types of image processing exist in this application:
 
-Edge Detection (Sobel Method)
+  Edge Detection (Sobel Method)
 
-Zoom
+  Zoom
 
-Blur (Gaussiun Blur Used)
+  Blur (Gaussiun Blur Used)
 
-Sort by Average RGB
+  Sort by Average RGB
 
-Scrolling
+  Scrolling
 
-Switch Corners
+  Switch Corners
 
-Pixellate
+  Pixellate
 
-Negative
+  Negative
 
-Brighten
+  Brighten
 
-Darken
+  Darken
 
-Sunset
+  Sunset
 
-Polarize
+  Polarize
 
-Grayscale
+  Grayscale
 
-Extract R,G, or B
+  Extract R,G, or B
 
-Flip Horizontally/Vertically
+  Flip Horizontally/Vertically
 
-Rotate 180
+  Rotate 180
