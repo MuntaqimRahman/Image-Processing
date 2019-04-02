@@ -3,6 +3,8 @@ Different types of image processing in c#.
 
 The following types of image processing exist in this application:
 
+
+
   Edge Detection (Sobel Method)
 
   Zoom
