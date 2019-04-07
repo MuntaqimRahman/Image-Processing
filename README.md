@@ -1,5 +1,5 @@
 # Image-Processing
-Different types of image processing in c#. All testing was done with the Toronto picture in the folder.The execitable can be found in: Image Processing/ImageProcessing/bin/Debug/ImageProcessing.exe
+Different types of image processing in c#. All testing was done with the Toronto picture in the folder.The executable can be found in: Image Processing/ImageProcessing/bin/Debug/ImageProcessing.exe
 
 
 The following types of image processing exist in this application:
